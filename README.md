@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m teknowizid
 
-<!--
-**teknowizid/teknowizid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Architect | Your Technology Partner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m passionate about designing scalable solutions and driving innovation in the tech world. As a Software Architect, I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ **Cloud Computing**
+- 🐍 **Python**
+- ⚡ **JavaScript**
+
+---
+
+## 🔥 Featured Project
+
+- [teknowiz-website](https://github.com/ghofur135/teknowiz-website)  
+  Building the next wave of innovation—check out my latest work!
+
+---
+
+## 💡 Motto
+
+**Your Technology Partner**
+
+I believe in collaborating to create impactful technology that solves real-world problems.
+
+---
+
+## 🌟 Let’s Connect!
+
+- [Facebook](https://facebook.com/teknowizid20)
+- [X (Twitter)](https://x.com/teknowizid)
+- [Instagram](https://instagram.com/teknowiz_id)
+
+---
+
+## 🛠️ Always Innovating
+
+From cloud architectures to cutting-edge web apps, I’m always exploring new ideas and technologies. If you share my passion for innovation, let’s connect and create something extraordinary!
