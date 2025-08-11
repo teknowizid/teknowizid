@@ -30,6 +30,9 @@ I believe in collaborating to create impactful technology that solves real-world
 - [Facebook](https://facebook.com/teknowizid20)
 - [X (Twitter)](https://x.com/teknowizid)
 - [Instagram](https://instagram.com/teknowiz_id)
+- [Website](https://teknowiz.web.id)
+- [Blog](https://blog.teknowiz.web.id)
+
 
 ---
 
